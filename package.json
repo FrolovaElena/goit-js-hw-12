@@ -1,6 +1,7 @@
 {
   "name": "webpack-4-tutorial",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open",
@@ -34,12 +35,9 @@
     "webpack-md5-hash": "0.0.6"
   },
   "dependencies": {
-    "basiclightbox": "^5.0.3",
     "handlebars": "^4.7.6",
     "handlebars-loader": "^1.7.1",
     "lodash": "^4.17.15",
     "pnotify": "^5.1.2"
-  },
-  "keywords": [],
-  "description": ""
+  }
 }
